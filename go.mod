@@ -1,0 +1,3 @@
+module marcos-queue-test
+
+go 1.27.3
