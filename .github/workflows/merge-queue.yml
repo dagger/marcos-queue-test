@@ -1,6 +1,7 @@
 name: merge-queue
 
 on:
+  pull_request:
   merge_group:
     types: [checks_requested]
 
